@@ -1,0 +1,342 @@
+ body{
+   background-color: #F1EAEA;
+}
+.page1{
+ background-color: #FFFFFF;
+ /* width: 100%; */
+ padding: 10%;
+ }
+ .navbar{
+    text-align: center;
+    font-size: 130%;
+    
+ }
+ .navbar a{
+     padding-inline: 2%;
+ }
+ .name{
+     float: left;
+ }
+ .but{
+     float: right;
+      padding: 15px 30px;
+      margin-top: -2%;
+      border-radius: 10px;
+      background-color: #5184F9;
+     
+  
+ }
+
+/* 
+.logo{
+    display: flex;
+   
+    
+}
+.logoimg{
+    margin-top: 30%;
+}
+.wordslogo{
+    margin-top: 20%;
+
+ 
+}
+
+#abu{
+    color: #9ACAC4;
+    margin-top: 20%;
+
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    margin-left: 30%;
+    margin-top: -5%;
+  
+}
+li{
+    padding: 3%;
+} */
+.btn{
+    margin-left: 75%;
+    margin-top:-4%;
+   
+}
+.but{
+    
+    /* width: 10%; */
+   
+}
+
+.fa-instagram{
+    margin-left: 10%;
+    font-size: 50%;
+    margin-top: 5%;
+}
+
+.fa-twitter{
+    /* margin-left: 10%; */
+   size: -80%;
+}
+ .words{
+     margin-left: 3%;
+
+ }
+ .words h1{
+     font-size: 230%;
+ }
+ .words p{
+     font-size: 120%;
+ }
+.but2{
+   margin-left: 3%; 
+  
+}
+   
+.photo{
+    margin-left: 65%;
+    margin-top: -30%;
+   
+}
+.boxes{
+    display: flex;
+    padding-left: 26%;
+    font-size: 120%;
+    margin-left: -10%;
+    
+}
+.box1{
+    margin-left:-15% ;
+    background-color: #FFFFFF;
+    padding: 2%;
+    background-color: #F5F9FA;
+    
+   
+}
+.box2{
+    /* margin-left:23% ; */
+    background-color: #FFFFFF;
+    padding: 2%;
+    background-color: #48A091;
+}
+.box3{
+    /* margin-left: 30%; */
+    background-color: #FFFFFF; 
+    padding: 2%;
+    background-color: #EAF6FE;
+}
+.footer{
+    display: flex;
+    margin-top: 2%;
+    padding-top: 5%;
+
+  
+}
+.slack{
+    margin-left: 1%;
+    margin-top: -2%; 
+ 
+}
+.prudential{
+    margin-left: 5%;
+    margin-top: -2%;
+
+
+}
+.microsoft{
+    margin-left: 10%;
+    margin-top: -2%;
+  
+}
+.zoover{
+margin-left: 15%;
+margin-top: 1%;
+font-size: 150%;
+}
+
+.service h4{
+ color: #B5D3CF;
+ /* text-align: center; */
+ font-size: 150%;
+ margin-left: 40%;
+}
+    
+ .logo2{
+  text-align: center;
+  margin-left:5% ;
+  margin-top: -8%;
+ }
+ .service h1{
+     /* text-align: center; */
+     margin-left: 40%;
+  
+ }
+
+ .boxes1{
+    display: flex;
+    margin-left: 2%;
+}
+.box4{
+    background-color: #FFFFFF;
+    padding: 2%;
+   
+    
+   
+}
+.box5{
+    margin-left:23% ;
+    background-color: #FFFFFF;
+    padding: 2%;
+  
+}
+.box6{
+    margin-left: 30%;
+    background-color: #FFFFFF; 
+    padding: 2%;
+   
+}
+.photo1{
+    display: flex;
+    margin-left: 20%;
+   
+}
+.numbers{
+    margin-top: 30%;
+    margin-left: -30%;
+    font-size: 120%;
+    
+}
+.word{
+    margin-left: 10%;
+    font-size: 150%;
+    margin-top: 10%;
+}
+.logo4{
+    margin-top: 10%;
+    margin-left: -16%;
+}
+/* .words1{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.words1 h1{
+    margin-top: -45%;
+    margin-left: 50%;
+}
+.words1 p{
+    margin-left: 50%;
+    margin-top: -5%;
+}
+
+.logo3{
+    margin-left: 57%;
+    margin-top: -4%;
+}
+.sentences{
+    margin-left:-1%;
+    margin-top: 31%;
+}
+.photo1{
+    margin-left: 10%;
+    margin-top: 8%;
+} */
+.page2{
+    background-color: #FFFFFF;
+    padding: 5%;
+    margin-top: 5%;
+}
+.page3{
+    background-color: #FFFFFF;
+    padding: 5%;
+    margin-top: 5%;
+}
+.signup{
+    /* margin-left: 40%; */
+    text-align: center;
+    font-size: 180%;
+    top: -30%;
+}
+.email .input{
+    margin-left: 40%;
+    width: 500px;
+    height: 50px;
+}
+/* .email .b{
+    margin-left: 70%;
+    margin-top: -55%;
+} */
+/* .project{
+    margin-top: 10%;
+}
+.project p{
+    margin-top:5% ;
+    margin-left: 1%;
+}
+.project h1{
+    margin-top: 8%;
+    margin-left: 15%;
+
+} */
+.page4{
+   background-color: #FFFFFF;
+   margin-top: 5%;
+   padding: 10%;
+  
+
+}
+.word4{
+    margin-left: 10%;
+    padding-top: 1%;
+    font-size: 140%;
+}
+.logo5{
+    margin-top: -18%;
+    margin-left: 20%;
+}
+.details{
+    margin-left: 10%;
+    margin-top: 10%;
+    font-size: 130%;
+    /* padding: 3%; */
+}
+.photo2{
+margin-left: 50%;
+margin-top: -35%;
+}
+.numbers{
+    /* padding: 20%; */
+    margin-left: -35%;
+}
+.num{
+    border-radius: 80px;
+    border: none;
+    background-color: #48A090;
+    font-size: 20px;
+    
+}
+.num2{
+    border-radius: 80px;
+    border: none;
+    background-color: #5285FA;
+    font-size: 20px;
+    
+}
+.num3{
+    border-radius: 80px;
+    border: none;
+    background-color: #FBBF31;
+    font-size: 20px;
+    
+}
+
+.icons{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.end{
+    margin-left: 20%;
+    background-color: #48A091;
+    font-size: 25px;
+    margin-right: 25%;
+    
+}
